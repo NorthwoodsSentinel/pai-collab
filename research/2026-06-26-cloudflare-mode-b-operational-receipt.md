@@ -100,7 +100,7 @@ NATS server install was a separate step (`/root/Bin/nats-server v2.14.2` downloa
 
 ## §7 · The composes-with conversation worth having
 
-The Rhizome ↔ stack interface map I co-authored on 2026-06-07 (in `mellanon/pai-collab/research/`) already names per-member CF account as The Rhizome's substrate boundary, with `ai-gateway` Worker + `meridian-observer` Worker + `member-daemon` DO. The mapping in §3 above is the natural extension: cortex's Mode B head deployed onto the same substrate primitives The Rhizome has been operationally validating since mid-2025.
+The Rhizome ↔ stack interface map I co-authored on 2026-06-07 (pending in PR #111) already names per-member CF account as The Rhizome's substrate boundary, with `ai-gateway` Worker + `meridian-observer` Worker + `member-daemon` DO. The mapping in §3 above is the natural extension: cortex's Mode B head deployed onto the same substrate primitives The Rhizome has been operationally validating since mid-2025.
 
 Two specific compositions worth surfacing:
 

@@ -20,7 +20,7 @@ posture: vendor-agnostic; CF as one operational reference recipe alongside other
 
 ## §1 · Frame — naming the convergence first
 
-The 2026-06-07 Rhizome ↔ stack interface map (`mellanon/pai-collab/research/`) documented that I and Andreas independently drafted family-resembling architectures in the same week of 2026-05, neither aware of the other at draft time. That paper named the *protocol-stack ↔ substrate-cooperative* layer mapping and proposed the compositions across substrate / comms / surface / trust / governance / portable-assistant layers. The convergence was real.
+The 2026-06-07 Rhizome ↔ stack interface map (open as PR #111 against `mellanon/pai-collab`, pending review) documented that I and Andreas independently drafted family-resembling architectures in the same week of 2026-05, neither aware of the other at draft time. That paper named the *protocol-stack ↔ substrate-cooperative* layer mapping and proposed the compositions across substrate / comms / surface / trust / governance / portable-assistant layers. The convergence was real.
 
 Today, Andreas posted the "Joining a Network — Sovereign Model B Federation" infographic in #cortex with an open invitation: *"this is what we're aiming for... Open to ways to make it more plug-and-play."* PR #1189 has since split the work cleanly — Mode A (elastic execution, post-release) and Mode B (isolated stack hosting, pre-release federation test-zone track). The Mode B design doc names exactly the shape The Rhizome has been operationally running on Cloudflare since mid-2025: a sovereign head daemon on the principal's own infrastructure, federating outbound into a network of peers.
 
